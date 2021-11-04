@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmadNaufal2525
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram : @ahmadnaufaldp_
 
 <!---
