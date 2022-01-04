@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @AhmadNaufal2525
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me Instagram : @ahmadnaufaldp_
+### Hi there 👋
 
-<!---
-AhmadNaufal2525/AhmadNaufal2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**AhmadNaufal2525/AhmadNaufal2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadNaufal2525&theme=omni)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNaufal2525&langs_count=8&theme=omni)](https://github.com/AhmadNaufal2525/github-readme-stats)
