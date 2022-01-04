@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadNaufal2525&theme=omni)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadNaufal2525&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNaufal2525&langs_count=8&theme=omni)](https://github.com/AhmadNaufal2525/github-readme-stats)
